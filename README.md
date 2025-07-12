@@ -53,12 +53,5 @@ This project uses regression techniques to predict product sales based on variou
 
 ---
 
-## 📄 Output
-
-- [Download Prediction Results](sales_prediction_output.csv)
-- [Summary Report PDF](sales_prediction_summary.pdf)
-
----
-
 ## 🗂 Project Structure
 Sales-Prediction/ ├── Sales_Prediction.ipynb ├── Sales_data.csv ├── README.md ├── sales_prediction_output.csv ├── sales_prediction_summary.pdf └── images/ ├── actual_vs_predicted.png ├── correlation_matrix.png ├── feature_importance.png └── pairplot.png
