@@ -1,0 +1,24 @@
+##Output 
+The file Sales_Prediction_Output.csv contains 40 rows and 2 columns:
+
+-Actual: The actual sales values.
+
+-Predicted: The predicted sales values from your model.
+
+
+#A preview of the first few rows:
+
+|Actual	|Predicted|
+
+|16.9	  |16.41    |
+|22.4	  |20.84    |
+|21.4	  |21.51    |
+|7.3	  |10.65    |
+|24.7	  |22.12    |
+
+-MAE (Mean Absolute Error): 1.47
+
+-RMSE (Root Mean Squared Error): 1.79
+
+-R² Score (Coefficient of Determination): 0.90
+
